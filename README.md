@@ -10,7 +10,7 @@
 <!------------------------------------------------------>
   <img align="right" height="200em" src="https://raw.githubusercontent.com/TainaraAlvesSilva/Gif/main/mario_bros.gif" alt="mario_bros" /> 
 <p>- 👋 Olá, me chamo Tainara Alves</p>
-<p>- 👀 Tenho 21 anos de idade.</p>
+<p>- 👀 Tenho 22 anos de idade.</p>
 <p>- 🌱 Atualmente estou focada em Java, mas aprendendo outras linguagens.</p>
 <p>- 💞️ Meus pronomes são ela/dela</p>
 <!------------------------------------------------------>
